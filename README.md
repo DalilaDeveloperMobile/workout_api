@@ -1,7 +1,29 @@
-# Workout Api Desafio Resposta
 ![Captura de tela 2024-04-17 123206](https://github.com/DalilaDeveloperMobile/Conhecendo-Linguagem-Python/assets/29806802/83eba503-c094-4431-b85f-e7b4cc9d92de)
 ### Passos Iniciais Realizados Nesse Bootcamp Python AI Backend Developer. [dio_me](https://www.dio.me/)
 ### ✅Desenvolvendo sua Primeira API com FastAPI, Python e Docker.
+# Workout Api Desafio Resposta
+### Arquivo .venv não foi importado
+
+<br/>
+
+# Desafio Final
+```
+- adicionar query parameters nos endpoints
+    - atleta
+        - nome
+        - cpf
+- customizar response de retorno de endpoints
+    - get all
+        - atleta
+            - nome
+            - centro_treinamento
+            - categoria
+- Manipular exceção de integridade dos dados em cada módulo/tabela
+    - sqlalchemy.exc.IntegrityError e devolver a seguinte mensagem: “Já existe um atleta cadastrado com o cpf: x”
+    - status_code: 303
+- Adicionar paginação utilizando a lib: fastapi-pagination
+    - limit e offset
+```
 
 <h3 align="center"> Made with <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> by Dalila...</h3>
 <div align="center"  style="display: inline-block">
