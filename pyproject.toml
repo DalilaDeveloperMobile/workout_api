@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "workout-api"
+version = "0.1.0"
+description = ""
+authors = ["Dalila Custódio <dalila.dalila70@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi-pagination = "^0.12.25"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
