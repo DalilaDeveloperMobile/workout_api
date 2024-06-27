@@ -2,7 +2,7 @@
 ### Desafio com Resposta Realizados Nesse Bootcamp Python AI Backend Developer. [dio_me](https://www.dio.me/)
 ### ✅Desenvolvendo sua Primeira API com FastAPI, Python e Docker.
 # Workout Api Desafio - Resposta
-### Arquivo .venv não foi importado
+### Arquivo .venv não está nesse git.
 
 <br/>
 
